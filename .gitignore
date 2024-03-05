@@ -1,5 +1,7 @@
 #Dani stuff
-data/
+data/.DS_Store
+data/week3/.DS_Store
+minidata/.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
