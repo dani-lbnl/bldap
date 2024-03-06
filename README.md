@@ -9,7 +9,7 @@ This tutorial offers a concise overview of computer vision principles, specifica
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/bldap/blob/main/cameracomputervision.png" width="300">
+    <td><img src="https://github.com/dani-lbnl/bldap/blob/main/minidata/leafVideo.gif" width="300">
     </td>
     <td>
      <p>
