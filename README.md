@@ -1,4 +1,4 @@
-# Dani for BLDAP
+# Computer Vision for BLDAP
 Tutorials for <a href="https://k12education.lbl.gov/programs/high-school/BLDAP/program"> BLDAP </a>
 
 ## Tutorial: Computer Vision applied to Plant Images
@@ -14,7 +14,7 @@ This tutorial offers a concise overview of computer vision principles, specifica
     <td>
      <p>
       Title: Computer Vision applied to Plant Images 
-      <li> Google Colaboratory: <a href='https://colab.research.google.com/drive/1DjAdAzcoqrd1lr17oIvJeLGnvvANiLRH?usp=sharing'>[Colab] </a>
+      <li> Google Colaboratory: lesson 1 <a href='https://colab.research.google.com/drive/1OkoYEVa7O3jA8oLcLIXDeX5pSRPTef2d?usp=sharing'>[Colab] </a>
       <li> Colab into pdf:  <a href='https://www.dropbox.com/s/aj6xw38szg1jdlv/WDEpythonML.pdf?dl=0'>[PDF]</a>
       </td>
  </tr>
