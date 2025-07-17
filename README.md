@@ -32,6 +32,6 @@ This tutorial offers a concise overview of computer vision principles, specifica
 
 
 ### Important:
-This tutorial is under active development, so use at your own risk. Found a bug? File an issue or contact [Dani Ushizima](mailto:dani.lbnl@gmail.com)
+This tutorial is under <a href="https://drive.google.com/drive/folders/1tySdtatCzILzNK0aGh7tm2VgM6XBhmUp?usp=sharing">active</a> development, so use at your own risk. Found a bug? File an issue or contact [Dani Ushizima](mailto:dani.lbnl@gmail.com)
 
 
